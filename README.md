@@ -2,4 +2,13 @@ This is a collection of my notes, implementations, and code around **neuromorphi
 
 This repo tries to deep dive into neuromorphic computing through the history of the original papers by implementing some of them.
 
+TO DO:
+- [ ] dvs-240
+- [ ] dvs-640
+- [ ] hodgin
+- [ ] mahowald
+- [ ] event depth data
+- [ ] loihi-ltsm
+- [ ] NC-scale
+
 _Inspired by Adam Majmudar's [Deep Dives](https://adammaj.com/deep-dives)._
